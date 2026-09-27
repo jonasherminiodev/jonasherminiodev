@@ -1,10 +1,10 @@
-# Olá, eu sou o Jonas Herminio 👋
+# Eai, Jonas aqui 👽
 
 **Mestrando em Ciência da Computação (UFC) | Pesquisador em LLMs | Data Science & AI Engineering**
 
 Sou graduado em Sistemas de Informação e atualmente curso o Mestrado em Ciência da Computação na Universidade Federal do Ceará (UFC), onde desenvolvo pesquisa focada em **Large Language Models (LLMs)**. 
 
-Busco oportunidades nas áreas de **Data Science, Machine Learning Engineering ou AI Engineering**, unindo minha base sólida em desenvolvimento de software e bancos de dados com pesquisa aplicada em Inteligência Artificial.
+Busco oportunidades nas áreas de **Data Science, Machine Learning Engineering ou AI Engineering**, unindo minha base em desenvolvimento de software e bancos de dados com pesquisa aplicada em Inteligência Artificial.
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-jonasherminio-FFD21E?style=flat-square)](https://huggingface.co/jonasherminio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jonasherminio/)
@@ -37,6 +37,13 @@ Busco oportunidades nas áreas de **Data Science, Machine Learning Engineering o
 ### 📈 Estatísticas do GitHub
 
 <div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonasherminiodev&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&text_color=333333&icon_color=2f80ed" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasherminiodev&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=2f80ed&text_color=333333" alt="Top Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonasherminiodev&theme=github_dark" alt="GitHub Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonasherminiodev&theme=github_dark" alt="Top Languages" />
 </div>
+
+---
+
+<div align="center">
+  <i>"Há tantos mundos quanto pessoas." — NieR: Automata</i>
+</div>
+
