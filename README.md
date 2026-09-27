@@ -45,5 +45,7 @@ Busco oportunidades nas áreas de **Data Science, Machine Learning Engineering o
 
 <div align="center">
   <i>"Há tantos mundos quanto pessoas." — NieR: Automata</i>
+  <br><br>
+  <sub>🔒 <b>Privacy Note:</b> For digital security and biometric data protection, I opt not to use personal photos on public profiles.</sub>
 </div>
 
